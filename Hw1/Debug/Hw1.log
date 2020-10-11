@@ -1,0 +1,4 @@
+﻿  Hw1.cpp
+D:\Master - Hw\Computer Vision - Visual\Hw1\Hw1\Hw1\Hw1.cpp(191,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Master - Hw\Computer Vision - Visual\Hw1\Hw1\Hw1\Hw1.cpp(214,79): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Hw1.vcxproj -> D:\Master - Hw\Computer Vision - Visual\Hw1\Hw1\Debug\Hw1.exe
